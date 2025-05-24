@@ -6,6 +6,15 @@
 Sou apaixonado por criar soluções digitais que unam design funcional com tecnologia eficiente. Combinando habilidades técnicas em **C#**, **Python** e **desenvolvimento Front-End**, além de expertise em ferramentas como **Figma** e **Photoshop**, desenvolvo projetos que priorizam a experiência do usuário e a inovação.
 
 ---
+## 🔗 Connect with Me
+
+- 💬 Discord: <a href="https://discordapp.com/users/402281435018428427" target="_blank">itzz_wolf</a>  
+- 📷 Instagram: <a href="https://www.instagram.com/_eoart/" target="_blank">@_eoart</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/arthur-mariano-a5a779331/" target="_blank">Arthur Mariano</a>  
+- 💻 GitHub: <a href="https://github.com/arthurizao" target="_blank">arthurizao</a>  
+- 🌐 Portfolio: <a href="https://arthurmarianolinks.netlify.app" target="_blank">arthurmarianolinks.netlify.app</a>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -48,15 +57,5 @@ Sou apaixonado por criar soluções digitais que unam design funcional com tecno
 
 - 🌐 **Desenvolvimento Front-End (HTML, CSS, JS)**  
   *Udemy – 2023/2024*
-
----
-
-## 🔗 Connect with Me
-
-- 💬 Discord: <a href="https://discordapp.com/users/402281435018428427" target="_blank">itzz_wolf</a>  
-- 📷 Instagram: <a href="https://www.instagram.com/_eoart/" target="_blank">@_eoart</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/arthur-mariano-a5a779331/" target="_blank">Arthur Mariano</a>  
-- 💻 GitHub: <a href="https://github.com/arthurizao" target="_blank">arthurizao</a>  
-- 🌐 Portfolio: <a href="https://arthurmarianolinks.netlify.app" target="_blank">arthurmarianolinks.netlify.app</a>
 
 ---
