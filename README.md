@@ -12,7 +12,7 @@ Sou apaixonado por criar soluções digitais que unam design funcional com tecno
 - 📷 Instagram: <a href="https://www.instagram.com/_eoart/" target="_blank">@_eoart</a>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/arthur-mariano-a5a779331/" target="_blank">Arthur Mariano</a>  
 - 💻 GitHub: <a href="https://github.com/arthurizao" target="_blank">arthurizao</a>  
-- 🌐 Portfolio: <a href="https://arthurareiasmariano.site" target="_blank">arthurmarianolinks.netlify.app</a>
+- 🌐 Portfolio: <a href="https://arthurareiasmariano.site" target="_blank">arthurareiasmariano.site</a>
 
 ---
 
