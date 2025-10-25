@@ -9,9 +9,6 @@ Sou apaixonado por criar soluções digitais que unam design funcional com tecno
 ## 🔗 Connect with Me
 
 - 💬 Discord: <a href="https://discordapp.com/users/402281435018428427" target="_blank">itzz_wolf</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/arthur-mariano-a5a779331/" target="_blank">Arthur Mariano</a>  
-- 💻 GitHub: <a href="https://github.com/arthurizao" target="_blank">arthurizao</a>  
-
 ---
 
 ## 🛠️ Tech Stack
